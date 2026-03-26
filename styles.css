@@ -91,7 +91,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1.6rem; /* 16px */
+  gap: 1.6rem;
 }
 
 .heroText {
@@ -126,7 +126,7 @@ img {
 }
 
 .aboutText {
-  width: 30rem; /* 300px */
+  width: 30rem;
 }
 
 .aboutImg {
